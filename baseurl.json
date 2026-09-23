@@ -1,3 +1,5 @@
 {
-  "apiBaseUrl": "https://aman-v3.example.com"
+  "configVersion": 1,
+  "apiBaseUrl": "https://api.example.com/api/v1",
+  "maintenanceMode": false
 }
